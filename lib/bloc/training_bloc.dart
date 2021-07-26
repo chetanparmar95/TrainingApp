@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:my_training_app/bloc/bloc.dart';
 import 'package:my_training_app/models/models.dart';
-import 'package:my_training_app/repositories/repository.dart';
+import 'package:my_training_app/repositories/repositories.dart';
 
 
 class TrainingBloc extends Bloc<AllTrainingEvent, TrainingState> {
@@ -18,7 +18,6 @@ class TrainingBloc extends Bloc<AllTrainingEvent, TrainingState> {
       yield TrainingLoading();
       try {
         final List<Training> trainings = await repository.fetchTrainings();
-        // yield TrainingFiltered(trainings: trainings);
         yield TrainingLoaded(trainings: trainings);
       } catch (exception) {
         print("Error $exception");

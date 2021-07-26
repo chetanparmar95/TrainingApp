@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 import 'package:my_training_app/models/models.dart';
-import 'package:my_training_app/repositories/api.dart';
+import 'package:my_training_app/repositories/repositories.dart';
 
 class TrainingApiClient {
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:my_training_app/bloc/bloc.dart';
-import 'package:my_training_app/repositories/repository.dart';
+import 'package:my_training_app/repositories/repositories.dart';
 import 'package:my_training_app/ui/home.dart';
 import 'package:my_training_app/ui/swipe_up_panel.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';

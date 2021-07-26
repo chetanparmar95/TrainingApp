@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:my_training_app/models/models.dart';
-import 'package:my_training_app/repositories/trainings_api_client.dart';
+import 'package:my_training_app/repositories/repositories.dart';
 
 class TrainingRepository {
   final TrainingApiClient trainingApiClient;

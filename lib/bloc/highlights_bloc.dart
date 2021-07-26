@@ -1,8 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:my_training_app/bloc/bloc.dart';
 import 'package:my_training_app/models/models.dart';
-import 'package:my_training_app/repositories/repository.dart';
-
+import 'package:my_training_app/repositories/repositories.dart';
 
 class HighlightsBloc extends Bloc<AllTrainingEvent, HighlightsState> {
   final TrainingRepository repository;
