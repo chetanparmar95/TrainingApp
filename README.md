@@ -25,18 +25,14 @@ flutter pub get
 
 In order to run this app, you need to start mock server locally to fetch data using REST API
 
-***Running in Android emulator or iOS simulator***
-```
-cd mock_server
-```
+***Running in Android emulator or iOS simulator (Navigate to mock_server folder)***
+
 ```
 jserver -d database.json 
 ```
 
 ***Running in physical device***
-```
-cd mock_server
-```
+
 ```
 jserver -d database.json --host 0.0.0.0
 ```
