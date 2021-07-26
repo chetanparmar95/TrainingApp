@@ -10,7 +10,7 @@ Shows a list of trainings and highlights
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/chetanparmar95/TrainingApp
 ```
 
 **Step 2:**
@@ -37,5 +37,6 @@ jserver -d database.json
 jserver -d database.json --host 0.0.0.0
 ```
 
-Before you run change host IP address with your machine IP address in [this]() file and make sure mobile is connected to same network
+Before you run, change host IP address with your machine IP address in [this](https://github.com/chetanparmar95/TrainingApp/blob/main/lib/repositories/api.dart) file and make sure mobile is connected to same network
+
 
