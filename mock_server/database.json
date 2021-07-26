@@ -1,0 +1,182 @@
+{
+  "/trainings": [
+    {
+      "id": 1,
+      "name": "Safe Scrum Master",
+      "status": "Filling Fast!",
+      "speaker": {
+        "id": 1,
+        "name": "Pat Gomez"
+      },
+      "speakerPicUrl": "https://randomuser.me/api/portraits/men/33.jpg",
+      "coverPic": "https://blog.crossknowledge.com/wp-content/uploads/2020/09/SpringVoice-image800x425-LearningFatigue.png",
+      "location": {
+        "id": 1,
+        "name": "West Des Moines, IA",
+        "address": "Conventional Hall, Greater Des Moines"
+      },
+      "date": "Oct 11 - 13, 2021",
+      "fromTime": "08:30 AM",
+      "toTime": "12:30 PM",
+      "oldPrice": "975",
+      "newPrice": "825",
+      "summary": "Scrum master training summary"
+    },
+    {
+      "id": 2,
+      "name": "React Native",
+      "status": "Early Birds!",
+      "speaker": {
+        "id": 2,
+        "name": "Ramon Owens"
+      },
+      "speakerPicUrl": "https://randomuser.me/api/portraits/men/34.jpg",
+      "coverPic": "https://blog.crossknowledge.com/wp-content/uploads/2020/09/SpringVoice-image800x425-LearningFatigue.png",
+      "location": {
+        "id": 2,
+        "name": "Chicago, IL",
+        "address": "Conventional Hall, Greater Chicago"
+      },
+      "date": "Oct 14 - 15, 2021",
+      "fromTime": "08:30 AM",
+      "toTime": "12:30 PM",
+      "oldPrice": "975",
+      "newPrice": "825",
+      "summary": "React Native training summary"
+    },
+    {
+      "id": 3,
+      "name": "Flutter",
+      "status": "Filling Fast!",
+      "speaker": {
+        "id": 3,
+        "name": "Lonnie Horton"
+      },
+      "speakerPicUrl": "https://randomuser.me/api/portraits/men/38.jpg",
+      "coverPic": "https://blog.crossknowledge.com/wp-content/uploads/2020/09/SpringVoice-image800x425-LearningFatigue.png",
+      "location": {
+        "id": 3,
+        "name": "Phoenix, AZ",
+        "address": "Conventional Hall, Phoenix"
+      },
+      "date": "Aug 5 - 10, 2021",
+      "fromTime": "08:30 AM",
+      "toTime": "12:30 PM",
+      "oldPrice": "975",
+      "newPrice": "825",
+      "summary": "Flutter training summary"
+    },
+    {
+      "id": 4,
+      "name": "Nodejs",
+      "status": "Filling Fast!",
+      "speaker": {
+        "id": 4,
+        "name": "Antonio Craig"
+      },
+      "speakerPicUrl": "https://randomuser.me/api/portraits/men/36.jpg",
+      "coverPic": "https://blog.crossknowledge.com/wp-content/uploads/2020/09/SpringVoice-image800x425-LearningFatigue.png",
+      "location": {
+        "id": 6,
+        "name": "San Fransisco, CA",
+        "address": "Conventional Hall, San Fransisco"
+      },
+      "date": "Aug 12 - 15, 2021",
+      "fromTime": "08:30 AM",
+      "toTime": "12:30 PM",
+      "oldPrice": "975",
+      "newPrice": "825",
+      "summary": "Nodejs training summary"
+    },
+    {
+      "id": 5,
+      "name": "Android/iOS App",
+      "status": "Early Birds!",
+      "speaker": {
+        "id": 5,
+        "name": "Nicholas Hale"
+      },
+      "speakerPicUrl": "https://randomuser.me/api/portraits/men/43.jpg",
+      "coverPic": "https://blog.crossknowledge.com/wp-content/uploads/2020/09/SpringVoice-image800x425-LearningFatigue.png",
+      "location": {
+        "id": 7,
+        "name": "New York, ZK",
+        "address": "Conventional Hall, New York, ZK"
+      },
+      "date": "Oct 20 - 23, 2021",
+      "fromTime": "08:30 AM",
+      "toTime": "12:30 PM",
+      "oldPrice": "975",
+      "newPrice": "825",
+      "summary": "Android/iOS App training summary"
+    }
+  ],
+  "/highlights": [
+    {
+      "id": 1,
+      "name": "Safe Scrum Master",
+      "status": "Filling Fast!",
+      "speaker": {
+        "id": 1,
+        "name": "Pat Gomez"
+      },
+      "speakerPicUrl": "https://randomuser.me/api/portraits/men/33.jpg",
+      "coverPic": "https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/getty_1075599562_hpy86b.jpg",
+      "location": {
+        "id": 1,
+        "name": "West Des Moines, IA",
+        "address": "Conventional Hall, Greater Des Moines"
+      },
+      "date": "Oct 11 - 13, 2021",
+      "fromTime": "08:30 AM",
+      "toTime": "12:30 PM",
+      "oldPrice": "975",
+      "newPrice": "825",
+      "summary": "Training summary"
+    },
+    {
+      "id": 2,
+      "name": "React Native",
+      "status": "Early Birds!",
+      "speaker": {
+        "id": 2,
+        "name": "Ramon Owens"
+      },
+      "speakerPicUrl": "https://randomuser.me/api/portraits/men/34.jpg",
+      "coverPic": "https://blog.crossknowledge.com/wp-content/uploads/2020/09/SpringVoice-image800x425-LearningFatigue.png",
+      "location": {
+        "id": 2,
+        "name": "Chicago, IL",
+        "address": "Conventional Hall, Greater Chicago"
+      },
+      "date": "Oct 14 - 15, 2021",
+      "fromTime": "08:30 AM",
+      "toTime": "12:30 PM",
+      "oldPrice": "975",
+      "newPrice": "825",
+      "summary": "Training summary"
+    },
+    {
+      "id": 3,
+      "name": "Flutter",
+      "status": "Filling Fast!",
+      "speaker": {
+        "id": 3,
+        "name": "Lonnie Horton"
+      },
+      "speakerPicUrl": "https://randomuser.me/api/portraits/men/38.jpg",
+      "coverPic": "https://blog.crossknowledge.com/wp-content/uploads/2021/04/Learner-Engagement-Business-Results800.jpg",
+      "location": {
+        "id": 3,
+        "name": "Phoenix, AZ",
+        "address": "Conventional Hall, Phoenix"
+      },
+      "date": "Aug 5 - 10, 2021",
+      "fromTime": "08:30 AM",
+      "toTime": "12:30 PM",
+      "oldPrice": "975",
+      "newPrice": "825",
+      "summary": "Training summary"
+    }
+  ]
+}
