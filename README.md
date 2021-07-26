@@ -21,22 +21,26 @@ Go to project root and execute the following command in console to get the requi
 flutter pub get 
 ```
 
-**Step 4:**
+**Step 3:**
 
 In order to run this app, you need to start mock server locally to fetch data using REST API
 
 ***Running in Android emulator or iOS simulator***
-
+```
+cd mock_server
+```
 ```
 jserver -d database.json 
 ```
 
 ***Running in physical device***
-
+```
+cd mock_server
+```
 ```
 jserver -d database.json --host 0.0.0.0
 ```
 
-Before you run, change host IP address with your machine IP address in [this](https://github.com/chetanparmar95/TrainingApp/blob/main/lib/repositories/api.dart) file and make sure mobile is connected to same network
+Before you run on physical device, change host IP address with your machine IP address in [this](https://github.com/chetanparmar95/TrainingApp/blob/main/lib/repositories/api.dart) file and make sure mobile is connected to the same network
 
 
