@@ -24,6 +24,10 @@ flutter pub get
 **Step 3:**
 
 In order to run this app, you need to start mock server locally to fetch data using REST API
+***Install json_server globally (You can also install it in project)
+```
+dart pub global activate json_server
+```
 
 ***Running in Android emulator or iOS simulator (Navigate to mock_server folder)***
 ```
